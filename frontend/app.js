@@ -1,7 +1,7 @@
 // app.js
 // This file fetches recipes from our backend API and displays them as photo cards.
 
-const API_BASE = 'http://localhost:4000';
+const API_BASE = 'https://recipe-explorer-api.onrender.com';
 
 // Grabs references to the HTML elements we'll need to update.
 const recipeGrid = document.getElementById('recipeGrid');
